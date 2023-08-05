@@ -1,0 +1,15 @@
+mail
+ftp
+admin
+local
+localhost
+images
+blog
+support
+news
+video
+chat
+docs
+photos
+business
+shopping
